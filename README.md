@@ -81,4 +81,4 @@ We acknowledge the support of the open-source community and the valuable insight
 
 **Contact:**
 
-For questions or inquiries, please contact [iyasiniyasin98@gmail.com](mailto:iyasiniyasin98@gmail.com).
+For questions or inquiries, please contact [y.riyazi@ut.ac.ir](mailto:y.riyazi@ut.ac.ir).
