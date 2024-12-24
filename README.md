@@ -72,7 +72,7 @@ This project is distributed under the [MIT License](LICENSE).
 If you find this work helpful or build upon it in your research, please consider citing the following paper:
 
 ```
-[Yassin Riyazi, Seyyed Mostafa Sadjadi, Abas Zohrevand, and Reshad Hosseini*. 2024. "High-Resolution Remote Sensing Image Captioning Based on Structured Attention Public." 2024 32nd International Conference on Electrical Engineering (ICEE), pp. 1-8. IEEE, 2024. DOI: 10.1109/ICEE63041.2024.10668247]
+[Yassin Riyazi, Seyyed Mostafa Sadjadi, Abas Zohrevand, and Reshad Hosseini*. "High-Resolution Remote Sensing Image Captioning Based on Structured Attention Public." 2024 32nd International Conference on Electrical Engineering (ICEE), pp. 1-8. IEEE, 2024. DOI: 10.1109/ICEE63041.2024.10668247]
 ```
 
 **Acknowledgments:**
